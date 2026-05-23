@@ -14,7 +14,8 @@ analyzes patient symptoms and provides instant emergency response guidance.
 
 ##  Demo
 
-<img width="1898" height="551" alt="image" src="https://github.com/user-attachments/assets/1ac27e92-1b87-4e41-9e3c-5530b5a1aab4" />
+<img width="1877" height="655" alt="image" src="https://github.com/user-attachments/assets/216515b6-ebe1-423d-972a-22a53dc91dde" />
+
 
 <img width="1870" height="772" alt="image" src="https://github.com/user-attachments/assets/fa7a929e-5f9d-4cd7-ad3e-1833947dd642" />
 
