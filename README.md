@@ -80,3 +80,7 @@ streamlit run app.py
 | Severity | Moderate |
 | History | asthma |
 | Symptoms | persistent cough for 5 days, mild fever, fatigue, slight difficulty breathing |
+
+
+Live Demo
+https://medical-ai-agent-sw9a2us5bhcvar5kfhh77k.streamlit.app/
